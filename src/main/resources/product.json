@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1A",
+    "productName": "Book",
+    "type": "IT",
+    "productPrice": 200.0,
+    "soldToday": 3.0,
+    "inStock": 97.0
+  },
+  {
+    "id": "2A",
+    "productName": "Lamp",
+    "type": "Yellow",
+    "productPrice": 200.0,
+    "soldToday": 3.0,
+    "inStock": 20.0
+  },
+  {
+    "id": "3A",
+    "productName": "Bird",
+    "type": "Red",
+    "productPrice": 200.0,
+    "soldToday": 3.0,
+    "inStock": 20.0
+  },
+  {
+    "id": "4A",
+    "productName": "K",
+    "type": "Color",
+    "productPrice": 100.0,
+    "soldToday": 3.0,
+    "inStock": 20.0
+  },
+  {
+    "id": "4A",
+    "productName": "K",
+    "type": "Color",
+    "productPrice": 100.0,
+    "soldToday": 3.0,
+    "inStock": 20.0
+  }
+]
